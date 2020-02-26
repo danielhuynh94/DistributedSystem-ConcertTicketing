@@ -1,0 +1,21 @@
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\obj\Debug\netcoreapp2.2\MovieTicketingApp.csprojAssemblyReference.cache
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\obj\Debug\netcoreapp2.2\MovieTicketingApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\obj\Debug\netcoreapp2.2\MovieTicketingApp.AssemblyInfoInputs.cache
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\obj\Debug\netcoreapp2.2\MovieTicketingApp.AssemblyInfo.cs
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\bin\Debug\netcoreapp2.2\MovieTicketingApp.deps.json
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\bin\Debug\netcoreapp2.2\MovieTicketingApp.runtimeconfig.json
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\bin\Debug\netcoreapp2.2\MovieTicketingApp.runtimeconfig.dev.json
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\bin\Debug\netcoreapp2.2\MovieTicketingApp.dll
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\bin\Debug\netcoreapp2.2\MovieTicketingApp.pdb
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\obj\Debug\netcoreapp2.2\MovieTicketingApp.dll
+C:\Users\danie\Google Drive\DistributedSystem-HW3\MovieTicketingApp\obj\Debug\netcoreapp2.2\MovieTicketingApp.pdb
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\bin\Debug\netcoreapp2.2\MovieTicketingApp.deps.json
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\bin\Debug\netcoreapp2.2\MovieTicketingApp.runtimeconfig.json
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\bin\Debug\netcoreapp2.2\MovieTicketingApp.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\bin\Debug\netcoreapp2.2\MovieTicketingApp.dll
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\bin\Debug\netcoreapp2.2\MovieTicketingApp.pdb
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\obj\Debug\netcoreapp2.2\MovieTicketingApp.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\obj\Debug\netcoreapp2.2\MovieTicketingApp.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\obj\Debug\netcoreapp2.2\MovieTicketingApp.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\obj\Debug\netcoreapp2.2\MovieTicketingApp.dll
+C:\Users\Daniel\Desktop\DistributedSystem-ConcertTicketing\obj\Debug\netcoreapp2.2\MovieTicketingApp.pdb
