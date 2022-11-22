@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="akka" Version="1.3.12" />
+    <PackageReference Include="akka" Version="1.4.46" />
     <PackageReference Include="json.net" Version="1.0.16" />
   </ItemGroup>
 
